@@ -7,7 +7,7 @@
 <body>
 <h1>
 	Hello world!    
-	Good World~
+	Good World~ 
 	한글은.. 
 </h1>
 
