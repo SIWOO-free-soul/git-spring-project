@@ -6,9 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
-	Good World~
-	한글은.. 
+처음 등록한 GIT 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
