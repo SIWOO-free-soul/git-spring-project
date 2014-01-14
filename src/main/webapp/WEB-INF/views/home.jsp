@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-처음 등록한 GIT 
+처음 등록한 GIT  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
